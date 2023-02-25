@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.f177f990.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.c2eed744.css",
+    "main.js": "/static/js/main.1470d63a.js",
+    "static/media/my-pic.png": "/static/media/my-pic.a3f186a1883c785af10a.png",
+    "static/media/E-Carry.png": "/static/media/E-Carry.006e35ae82452c4cf68e.png",
+    "static/media/Medease.png": "/static/media/Medease.d1d35edab8ee4d2d2f68.png",
+    "static/media/Bontime.png": "/static/media/Bontime.9e4998ef803694c0041e.png",
+    "static/media/Bluemercury.png": "/static/media/Bluemercury.d732383a3f6e0270c4de.png",
+    "static/media/LeadIQ.png": "/static/media/LeadIQ.45fe15f863db585b5c12.png",
+    "static/media/SUPRIYA_SAHOO_(RESUME).pdf": "/static/media/SUPRIYA_SAHOO_(RESUME).b22a7a14c0a8e7cb4687.pdf",
+    "static/media/BestermindRegular.ttf": "/static/media/BestermindRegular.e58a192233afb30a6a59.ttf",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.f177f990.js.map": "/static/js/main.f177f990.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.c2eed744.css.map": "/static/css/main.c2eed744.css.map",
+    "main.1470d63a.js.map": "/static/js/main.1470d63a.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f177f990.js"
+    "static/css/main.c2eed744.css",
+    "static/js/main.1470d63a.js"
   ]
 }
