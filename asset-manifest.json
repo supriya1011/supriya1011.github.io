@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.36120e1b.css",
+    "main.css": "/static/css/main.5e532627.css",
     "main.js": "/static/js/main.b442d204.js",
     "static/media/my-pic.png": "/static/media/my-pic.a3f186a1883c785af10a.png",
     "static/media/Ajio.png": "/static/media/Ajio.a9e9ab0b377bc681744c.png",
     "static/media/SUPRIYA_SAHOO_(RESUME).pdf": "/static/media/SUPRIYA_SAHOO_(RESUME).b22a7a14c0a8e7cb4687.pdf",
     "static/media/BestermindRegular.ttf": "/static/media/BestermindRegular.e58a192233afb30a6a59.ttf",
     "index.html": "/index.html",
-    "main.36120e1b.css.map": "/static/css/main.36120e1b.css.map",
+    "main.5e532627.css.map": "/static/css/main.5e532627.css.map",
     "main.b442d204.js.map": "/static/js/main.b442d204.js.map"
   },
   "entrypoints": [
-    "static/css/main.36120e1b.css",
+    "static/css/main.5e532627.css",
     "static/js/main.b442d204.js"
   ]
 }
