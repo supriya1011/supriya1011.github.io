@@ -4,8 +4,8 @@ import { SiPostman, SiExpress } from "react-icons/si";
 
 const Backend = () => {
   return (
-    <div className="skills_content">
-      <h3 className="skills_title">Backend</h3>
+    <div className="skills-card-img">
+      <h3 className="skills-card-name">Backend</h3>
 
       <div className="skills_box">
         <div className="skills_group">

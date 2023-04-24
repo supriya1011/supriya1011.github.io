@@ -43,7 +43,7 @@ const Footer = () => {
 
         <div className="footer_social">
           <a
-            href="https://www.linkedin.com/in/monojit1696"
+            href="https://www.linkedin.com/in/supriya-sahoo/"
             className="footer_social-link"
             target="_blank"
             rel="noreferrer">
@@ -51,7 +51,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://github.com/ninja-mono1696"
+            href="https://github.com/supriya1011"
             className="footer_social-link"
             target="_blank"
             rel="noreferrer">
@@ -59,7 +59,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://twitter.com/monojit_1696"
+            href="https://twitter.com/SupriyoSahoo3"
             className="footer_social-link"
             target="_blank"
             rel="noreferrer">

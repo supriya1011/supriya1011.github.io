@@ -74,13 +74,13 @@ const Qualification = () => {
 
               <div>
                 <h3 className="qualification_title">
-                  B.Tech - Electrical Engineering
+                  BCA - Bachelor Of Computer Application
                 </h3>
                 <span className="qualification_subtitle">
-                  Haldia Institute of Technology
+                  Contai College Of Learning & Management Science
                 </span>
                 <div className="qualification_calender">
-                  <i className="uil uil-calendar-alt"></i> 2016 - 2020
+                  <i className="uil uil-calendar-alt"></i> 2018 - 2021
                 </div>
               </div>
             </div>
@@ -91,10 +91,10 @@ const Qualification = () => {
                   Higher Secondary Examination
                 </h3>
                 <span className="qualification_subtitle">
-                  S.K.S. Public School
+                  K.A.V High School
                 </span>
                 <div className="qualification_calender">
-                  <i className="uil uil-calendar-alt"></i> 2013 - 2015
+                  <i className="uil uil-calendar-alt"></i> 2016 - 2018
                 </div>
               </div>
 
@@ -115,10 +115,10 @@ const Qualification = () => {
               <div>
                 <h3 className="qualification_title">Secondary Examination</h3>
                 <span className="qualification_subtitle">
-                  S.K.S. Public School
+                  K.A.V High School
                 </span>
                 <div className="qualification_calender">
-                  <i className="uil uil-calendar-alt"></i> 2007 - 2013
+                  <i className="uil uil-calendar-alt"></i> 2014 - 2016
                 </div>
               </div>
             </div>

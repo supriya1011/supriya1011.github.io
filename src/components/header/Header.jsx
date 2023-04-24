@@ -16,7 +16,7 @@ const Header = () => {
   const [activeNav, setActiveNav] = useState("#home");
 
   return (
-    <header className="header">
+    <header className="header" id="nav-menu">
       <nav className="nav container">
         <a href="index.html" className="nav_logo">
           Supriya Sahoo
@@ -24,29 +24,31 @@ const Header = () => {
 
         <div className={toggle ? "nav_menu show-menu" : "nav_menu"}>
           <ul className="nav_list grid">
-            <li className="nav_item">
+            <li className="nav-link home">
               <a
                 href="#home"
                 onClick={() => setActiveNav("#home")}
                 className={
                   activeNav === "#home" ? "nav_link active-link" : "nav_link"
-                }>
+                } id="resume-link-2"
+                >
                 <i className="uil uil-estate nav_icon"></i> Home
               </a>
             </li>
 
-            <li className="nav_item">
+            <li className="nav-link about">
               <a
                 href="#about"
                 onClick={() => setActiveNav("#about")}
                 className={
                   activeNav === "#about" ? "nav_link active-link" : "nav_link"
-                }>
+                } id="resume-link-2"
+                >
                 <i className="uil uil-user nav_icon"></i> About
               </a>
             </li>
 
-            <li className="nav_item">
+            <li className="nav-link skills">
               <a
                 href="#skills"
                 onClick={() => setActiveNav("#skills")}
@@ -70,7 +72,7 @@ const Header = () => {
               </a>
             </li> */}
 
-            <li className="nav_item">
+            <li className="nav-link projects">
               <a
                 href="#projects"
                 onClick={() => setActiveNav("#projects")}
@@ -83,7 +85,7 @@ const Header = () => {
               </a>
             </li>
 
-            <li className="nav_item">
+            <li className="nav-link contact">
               <a
                 href="#contact"
                 onClick={() => setActiveNav("#contact")}
@@ -94,13 +96,13 @@ const Header = () => {
               </a>
             </li>
 
-            <li className="nav_item">
+            <li className="nav-link resume">
               <a
                 download=""
                 href={CV}
                 onClick={() => window.open("https://drive.google.com/file/d/1zpnAAdAjSgw35zZ_a5NO--GW--70qJVT/view?usp=share_link")}
-                className="nav_link">
-                <i className="uil uil-blogger-alt nav_icon"></i> Resume
+                className="nav_link" id="resume-link-1">
+                <i className="uil uil-blogger-alt nav_icon" id="resume-button-1"></i> Resume
               </a>
             </li>
           </ul>

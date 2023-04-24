@@ -6,7 +6,7 @@ import Info from "./Info";
 
 const About = () => {
   return (
-    <section className="about section" id="about">
+    <section  id="about" class="about section">
       <h2 className="section_title">About Me</h2>
       <span className="section_subtitle">My Introduction</span>
 
@@ -30,6 +30,7 @@ const About = () => {
             download=""
             href={Resume}
             className="button button--flex"
+            id="resume-button-2"
             onClick={() =>
               window.open(
                 "https://drive.google.com/file/d/1zpnAAdAjSgw35zZ_a5NO--GW--70qJVT/view?usp=share_link"

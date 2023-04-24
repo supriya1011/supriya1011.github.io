@@ -2,8 +2,8 @@ import React from "react";
 
 const Frontend = () => {
   return (
-    <div className="skills_content">
-      <h3 className="skills_title">Frontend</h3>
+    <div className="skills-card-img" >
+      <h3 className="skills-card-name">Frontend</h3>
 
       <div className="skills_box">
         <div className="skills_group">

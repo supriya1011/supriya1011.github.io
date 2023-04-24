@@ -58,7 +58,7 @@ const Contact = () => {
             <div className="contact_card">
               <i className="bx bx-mobile contact_card-icon"></i>
 
-              <h3 className="contact_card-title">Phone</h3>
+              <h3 className="contact_card-title" id="contact-phone">Phone</h3>
               <span className="contact_card-data">+91 9749650023</span>
 
               <a
@@ -81,7 +81,7 @@ const Contact = () => {
                 href="https://github.com/supriya1011"
                 target="_blank"
                 rel="noreferrer"
-                className="contact_button">
+                className="contact_button" id="contact-github">
                 Lookout
                 <i className="bx bx-right-arrow-alt contact_button-icon"></i>
               </a>
@@ -90,7 +90,7 @@ const Contact = () => {
             <div className="contact_card">
               <i className="bx bxl-linkedin contact_card-icon"></i>
 
-              <h3 className="contact_card-title">LinkedIn</h3>
+              <h3 className="contact_card-title" id="contact-linkedin">LinkedIn</h3>
               <span className="contact_card-data"></span>
 
               <a
@@ -120,7 +120,7 @@ const Contact = () => {
             </div>
 
             <div className="contact_form-div">
-              <label className="contact_form-tag">Mail</label>
+              <label className="contact_form-tag" id="contact-email">Mail</label>
               <input
                 type="email"
                 name="email"
@@ -136,7 +136,7 @@ const Contact = () => {
                 cols="30"
                 rows="10"
                 className="contact_form-input"
-                placeholder="Write your message"></textarea>
+                placeholder="Write your message for Supriya"></textarea>
             </div>
 
             <button className="button button--flex">

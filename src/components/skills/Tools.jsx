@@ -4,8 +4,8 @@ import { FaGit } from "react-icons/fa";
 
 const Tools = () => {
   return (
-    <div className="skills_content">
-      <h3 className="skills_title">Tools & Libraries</h3>
+    <div className="skills-card-img">
+      <h3 className="skills-card-name ">Tools & Libraries</h3>
 
       <div className="skills_box">
         <div className="skills_group">

@@ -3,7 +3,7 @@ import React from "react";
 const Data = () => {
   return (
     <div className="home_data">
-      <h1 className="home_title">
+      <h1 className="home_title" id="user-detail-name">
         Supriya Sahoo
         {/* <svg
           width="36"
@@ -51,7 +51,7 @@ const Data = () => {
       </h1>
 
       <h3 className="home_subtitle">Full Stack Web Developer</h3>
-      <p className="home_description">
+      <p className="home_description" id="user-detail-intro">
         A creative designer, passionate and dedicated to work.
       </p>
 
