@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e532627.css",
-    "main.js": "/static/js/main.97fa7ae4.js",
+    "main.css": "/static/css/main.6916e0c6.css",
+    "main.js": "/static/js/main.d892cab9.js",
     "static/media/my-pic.png": "/static/media/my-pic.a3f186a1883c785af10a.png",
     "static/media/Ajio.png": "/static/media/Ajio.a9e9ab0b377bc681744c.png",
     "static/media/SUPRIYA_SAHOO_(RESUME).pdf": "/static/media/SUPRIYA_SAHOO_(RESUME).b22a7a14c0a8e7cb4687.pdf",
     "static/media/BestermindRegular.ttf": "/static/media/BestermindRegular.e58a192233afb30a6a59.ttf",
     "index.html": "/index.html",
-    "main.5e532627.css.map": "/static/css/main.5e532627.css.map",
-    "main.97fa7ae4.js.map": "/static/js/main.97fa7ae4.js.map"
+    "main.6916e0c6.css.map": "/static/css/main.6916e0c6.css.map",
+    "main.d892cab9.js.map": "/static/js/main.d892cab9.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e532627.css",
-    "static/js/main.97fa7ae4.js"
+    "static/css/main.6916e0c6.css",
+    "static/js/main.d892cab9.js"
   ]
 }
